@@ -27,11 +27,11 @@
   * [Vmware](it-zhi-shi-ku/xu-ni-hua/vmware/README.md)
     * [VCSA6.7无DNS安装](it-zhi-shi-ku/xu-ni-hua/vmware/vcsa6.7-wu-dns-an-zhuang.md)
     * [VMware 系列密钥](it-zhi-shi-ku/xu-ni-hua/vmware/vmware-xi-lie-mi-yue.md)
-* [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi.md)
 * [系统配置](it-zhi-shi-ku/xi-tong-pei-zhi/README.md)
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
     * [Windows挂载NFS](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-gua-zai-nfs.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
+* [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi.md)
 
 ## 读书清单
 
