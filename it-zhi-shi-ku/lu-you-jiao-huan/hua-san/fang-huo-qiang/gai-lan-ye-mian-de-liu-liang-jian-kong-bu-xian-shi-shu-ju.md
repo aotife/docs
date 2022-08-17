@@ -10,17 +10,17 @@
 
 **如下命令都开启，然后等待一段时间，再登陆到设备上看看**
 
-**`Info-center enable` 开启信息中心功能**
+**`Info-center enable` 开启信息中心功能 （非必须）**
 
-**`webui log enable` 开启Web操作日志功能**
+**`webui log enable` 开启Web操作日志功能（非必须）**
 
-**`session statistics enable` 用来开启会话统计功能**
+**`session statistics enable` 用来开启会话统计功能（建议）**
 
-**`session top-statistics enable` 开启会话数目的Top排名统计功能**
+**`session top-statistics enable` 开启会话数目的Top排名统计功能（建议）**
 
-**`application global statistics enable` 开启全局应用统计功能**
+**`application global statistics enable` 开启全局应用统计功能（建议）**
 
-**`inspect activate` 激活策略和规则**
+**`inspect activate` 激活策略和规则（非必须）**
 
 ### 生效 ：
 
