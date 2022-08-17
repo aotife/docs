@@ -35,3 +35,17 @@
 * 这个网站可以在线查询英文缩略词的含义，输入缩略词就会展示该缩略词所代表的所有含义
 
 {% embed url="https://www.abbreviationfinder.org" %}
+
+## 在线扒站工具
+
+* 进入网站，输入网址，一键将指定网页的HTML、CSS、JS等前端资源打包下载。
+
+{% embed url="https://bazhan.wang/" %}
+
+## AllTube Download
+
+*   在线视频下载工具，支持油管等网站，有书签工具功能，把书签工具拉到书签栏
+
+    遇到想要下载的网页视频拉到书签即可下载
+
+{% embed url="https://alltubedownload.net/" %}

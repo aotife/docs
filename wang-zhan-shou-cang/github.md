@@ -29,3 +29,9 @@ ZFAKA发卡系统
 * ​    每天自动更新
 
 {% embed url="https://github.com/ngosang/trackerslist" %}
+
+## 直播平台直播源
+
+* 目前支持斗鱼，虎牙，B站，YY，西瓜等59个网站的直播源获取和部分网站弹幕获取
+
+{% embed url="https://github.com/moxun33/real-url" %}
