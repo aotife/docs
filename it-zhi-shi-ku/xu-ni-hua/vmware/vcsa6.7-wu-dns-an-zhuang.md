@@ -22,6 +22,13 @@
 
 ### 修改VCSA的配置文件
 
+进入配置模式：
+
+```
+Command> shell
+Shell access is granted to root
+```
+
 1.备份文件
 
 ```
@@ -43,7 +50,7 @@ vi /etc/dnsmasq.conf
 
 192.168.1.22 为VCSA的地址
 
-按Esc键退出编辑，然后输入\*\*:wq\*\*保存文件
+按Esc键退出编辑，然后输入**`:wq`**保存文件
 
 3.添加解析记录
 
@@ -58,7 +65,7 @@ vi /etc/dns_add_hosts
 192.169.1.22 vcenter   //如果纯IP访问的可以不加
 ```
 
-按Esc键退出编辑，然后输入\*\*:wq\*\*保存文件
+按Esc键退出编辑，然后输入**`:wq`**保存文件
 
 4.重启dnsmasq服务
 
