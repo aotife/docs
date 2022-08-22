@@ -20,6 +20,7 @@
     * [2.链路聚合](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/2.-lian-lu-ju-he.md)
     * [3 IRF堆叠](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/3-irf-dui-die.md)
     * [4.ARP网关保护功能](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/4.arp-wang-guan-bao-hu-gong-neng.md)
+  * [华为](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei.md)
   * [戴尔](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/README.md)
     * [DELL 网络交换机 基本配置说明](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/dell-wang-luo-jiao-huan-ji-ji-ben-pei-zhi-shuo-ming.md)
 * [服务器](it-zhi-shi-ku/fu-wu-qi/README.md)
