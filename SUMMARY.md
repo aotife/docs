@@ -28,6 +28,7 @@
 * [虚拟化](it-zhi-shi-ku/xu-ni-hua/README.md)
   * [Vmware](it-zhi-shi-ku/xu-ni-hua/vmware/README.md)
     * [VCSA6.7无DNS安装](it-zhi-shi-ku/xu-ni-hua/vmware/vcsa6.7-wu-dns-an-zhuang.md)
+    * [VCSA7.0.2无DNS安装](it-zhi-shi-ku/xu-ni-hua/vmware/vcsa7.0.2-wu-dns-an-zhuang.md)
     * [VMware 系列密钥](it-zhi-shi-ku/xu-ni-hua/vmware/vmware-xi-lie-mi-yue.md)
 * [系统配置](it-zhi-shi-ku/xi-tong-pei-zhi/README.md)
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
