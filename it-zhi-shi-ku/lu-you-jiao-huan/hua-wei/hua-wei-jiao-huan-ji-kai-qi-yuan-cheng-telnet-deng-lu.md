@@ -69,8 +69,27 @@ user-interface vty 0 4
  protocol inbound telnet
 #
 return
+```
+
+## 脚本
 
 ```
+telnet server enable
+telnet server-source -i all
+user-interface vty 0 4
+protocol inbound telnet
+user privilege level 15 
+authentication-mode aaa
+quit
+aaa
+local-user admin password irreversible-cipher Huawei@123
+local-user admin123 privilege level 15 
+local-user admin123 service-type telnet
+quit
+
+```
+
+
 
 引用：
 
