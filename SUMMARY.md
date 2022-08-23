@@ -36,7 +36,8 @@
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
     * [Windows挂载NFS](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-gua-zai-nfs.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
-* [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi.md)
+* [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi/README.md)
+  * [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi/ge-chang-shang-mo-ren-guan-li-di-zhi.md)
 
 ## 读书清单
 
