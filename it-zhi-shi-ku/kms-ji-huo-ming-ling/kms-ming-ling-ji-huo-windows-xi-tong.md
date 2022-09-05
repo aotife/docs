@@ -40,7 +40,7 @@ slmgr /ipk xxxxx-xxxxx-xxxxx-xxxxx
 slmgr /skms kms.chjina.com && slmgr /ato
 ```
 
-### 官方KMS激活密钥
+### 通用批量许可证密钥 (GVLK) <a href="#generic-volume-license-keys-gvlk" id="generic-volume-license-keys-gvlk"></a>
 
 **Windows Server（LTSC 版本）**
 
@@ -210,3 +210,5 @@ slmgr /skms kms.chjina.com && slmgr /ato
 | Windows 7 企业版   | 33PXH-7Y6KF-2VJC9-XBBR8-HVTHH |
 | Windows 7 企业版 N | YDRBP-3D83W-TY26F-D46B2-XCKRJ |
 | Windows 7 企业版 E | C29WB-22CC8-VJ326-GHFJW-H9DH4 |
+
+##
