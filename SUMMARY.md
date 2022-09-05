@@ -36,10 +36,10 @@
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
     * [Windows挂载NFS](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-gua-zai-nfs.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
-* [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi.md)
 * [KMS激活命令](it-zhi-shi-ku/kms-ji-huo-ming-ling/README.md)
   * [kms命令激活office](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-office.md)
   * [kms命令激活windows系统](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-windows-xi-tong.md)
+* [各厂商默认管理地址](it-zhi-shi-ku/ge-chang-shang-mo-ren-guan-li-di-zhi.md)
 
 ## 读书清单
 
