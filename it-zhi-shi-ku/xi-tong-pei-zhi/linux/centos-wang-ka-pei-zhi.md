@@ -113,11 +113,6 @@ Restarting network (via systemctl):                        [  OK  ]
 #### 例示：
 
 ```
-[root@localhost ~]# service network restart
-Restarting network (via systemctl):                        [  OK  ]
-```
-
-```
 [root@localhost ~]# ip add
 1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
     link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
