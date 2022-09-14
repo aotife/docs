@@ -12,14 +12,26 @@
 
 * 开机引导按`Delete`进入BIOS，默认密码`Admin@9000`
 
+#### 1.选择高级——槽位配置
+
+![image-20220914154430302](https://pic.chjina.com/2022/09/14/20220914154524.png)
+
+#### 2.选择CPU配置
+
 ![img](https://pic.chjina.com/2022/08/22/1647224963932.png)
 
+#### 3.选择MONITOR/MWAIT
+
 ![img](https://pic.chjina.com/2022/08/22/1647224966131.png)
+
+#### 4.开启MONITOR/MWAIT指令
 
 ![img](https://pic.chjina.com/2022/08/22/1647224967628.png)
 
 引用参考：
 
-* [vCLS报错处理（缺少功能“MWAIT”，没有与虚拟机兼容的主机）\_白昼ron的博客-CSDN博客\_没有与虚拟机兼容的主机](https://blog.csdn.net/xiezuoyong/article/details/123686809)
-* [MWAIT (hnkddz.com)](http://www.hnkddz.com/article-detail/BAlplZ6b)
-* [超聚变数字技术有限公司技术支持 (xfusion.com)](http://support.xfusion.com/support/#/zh/docOnline/EDOC1000163371?path=zh-cn\_topic\_0000001136230833)
+{% embed url="https://blog.csdn.net/xiezuoyong/article/details/123686809" %}
+
+{% embed url="http://www.hnkddz.com/article-detail/BAlplZ6b" %}
+
+{% embed url="http://support.xfusion.com/support/#/zh/docOnline/EDOC1000163371?path=zh-cn_topic_0000001136230833" %}
