@@ -8,23 +8,23 @@
 
 本文介绍下华为2288H v5服务器开启MWAIT功能，
 
-### 进入BIOS
+## 进入BIOS
 
 * 开机引导按`Delete`进入BIOS，默认密码`Admin@9000`
 
-#### 1.选择高级——槽位配置
+### 1.选择高级——槽位配置
 
 ![image-20220914154430302](https://pic.chjina.com/2022/09/14/20220914154524.png)
 
-#### 2.选择CPU配置
+### 2.选择CPU配置
 
 ![img](https://pic.chjina.com/2022/08/22/1647224963932.png)
 
-#### 3.选择MONITOR/MWAIT
+### 3.选择MONITOR/MWAIT
 
 ![img](https://pic.chjina.com/2022/08/22/1647224966131.png)
 
-#### 4.开启MONITOR/MWAIT指令
+### 4.开启MONITOR/MWAIT指令
 
 ![img](https://pic.chjina.com/2022/08/22/1647224967628.png)
 
