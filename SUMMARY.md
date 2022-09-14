@@ -28,6 +28,8 @@
 * [服务器](it-zhi-shi-ku/fu-wu-qi/README.md)
   * [浪潮](it-zhi-shi-ku/fu-wu-qi/lang-chao/README.md)
     * [RAID配置](it-zhi-shi-ku/fu-wu-qi/lang-chao/raid-pei-zhi.md)
+  * [华为](it-zhi-shi-ku/fu-wu-qi/hua-wei/README.md)
+    * [华为2288H v5服务器开启MWAIT功能](it-zhi-shi-ku/fu-wu-qi/hua-wei/hua-wei-2288h-v5-fu-wu-qi-kai-qi-mwait-gong-neng.md)
 * [虚拟化](it-zhi-shi-ku/xu-ni-hua/README.md)
   * [Vmware](it-zhi-shi-ku/xu-ni-hua/vmware/README.md)
     * [VCSA6.7无DNS安装](it-zhi-shi-ku/xu-ni-hua/vmware/vcsa6.7-wu-dns-an-zhuang.md)
