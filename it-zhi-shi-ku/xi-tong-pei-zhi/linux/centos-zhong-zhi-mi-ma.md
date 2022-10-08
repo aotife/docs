@@ -49,3 +49,11 @@
 ![image-20221008094903681](https://pic.chjina.com/2022/10/08/image-20221008094903681.png)
 
 ## 重启后，输入新的密码就可以登录系统。
+
+
+
+
+
+引用：
+
+{% embed url="https://blog.csdn.net/weixin_52270081/article/details/126029470" %}
