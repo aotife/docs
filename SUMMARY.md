@@ -38,6 +38,7 @@
 * [系统配置](it-zhi-shi-ku/xi-tong-pei-zhi/README.md)
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
     * [Windows挂载NFS](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-gua-zai-nfs.md)
+    * [Windows 远程提示函数不受支持](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-yuan-cheng-ti-shi-han-shu-bu-shou-zhi-chi.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
     * [CentOS网卡配置](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-wang-ka-pei-zhi.md)
     * [CentOS重置密码](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-zhong-zhi-mi-ma.md)
