@@ -1,4 +1,8 @@
-# 浪潮Ctrl+H做Raid
+---
+description: NF5280M4
+---
+
+# Ctrl+H RAID配置
 
 ## Ctrl+H RAID卡配置步骤
 
@@ -196,45 +200,83 @@ Raid0的配置过程与Raid1大致相同，唯一不同是在选择Raid级别这
 
 在WebBIOS主页点击【Configuration Wizard】，打开配置向导
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H37x1m.png) 选择【Add Configuration】，点击【Next】下一步
+&#x20;选择【Add Configuration】，点击【Next】下一步
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H38x1m.png) 选择【Manual Configuration】，点击【Next】下一步
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H37x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H39x1m.png) 左侧方框内可以看到所有未使用的硬盘。因为要做Raid1，我们选择前两块，然后点击下方的【Add to Array】将其加入到右侧方框内。
+&#x20;选择【Manual Configuration】，点击【Next】下一步
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H40x1m.png) 点击【Accept DG】，创建磁盘组
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H38x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H41x1m.png) 点击【Next】下一步
+&#x20;左侧方框内可以看到所有未使用的硬盘。因为要做Raid1，我们选择前两块，然后点击下方的【Add to Array】将其加入到右侧方框内。
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H42x1m.png) 点击【Add to SPAN】，将刚才创建好的磁盘组加入到右侧方框内
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H39x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H43x1m.png) 点击【Next】下一步
+&#x20;点击【Accept DG】，创建磁盘组
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H44x1m.png) 阵列参数配置：第一个参数“Raid Level”选择Raid1，其余保持默认
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H40x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H45x1m.png) 最后一个参数“Select Size”输入阵列容量大小，最大值可参考右侧绿字提示（其中R0代表做Raid0最大容量，R1代表做Raid1最大容量），完成后点击【Accept】
+&#x20;点击【Next】下一步
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H46x1m.png) 弹出的任何提示均选择【yes】
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H41x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H47x1m.png) 回到配置页面，点击【Next】下一步
+&#x20;点击【Add to SPAN】，将刚才创建好的磁盘组加入到右侧方框内
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H48x1m.png) 点击【Accept】配置完成！
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H42x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H49x1m.png) 提示保存，选择【yes】
+&#x20;点击【Next】下一步
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H50x1m.png) （依Raid卡型号不同，有些可能没有此功能，如没有请跳过此步）提示SSD缓存，选择【Cancel】
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H43x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H51x1m.png) 提示初始化，选择【yes】
+&#x20;阵列参数配置：第一个参数“Raid Level”选择Raid1，其余保持默认
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H52x1m.png) 正在初始化，能看到百分比进度条（速度较快，可能一闪而过）
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H44x1m.png" alt=""><figcaption></figcaption></figure>
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H53x1m.png) 初始化完成！点击【Home】返回首页
+&#x20;最后一个参数“Select Size”输入阵列容量大小，最大值可参考右侧绿字提示（其中R0代表做Raid0最大容量，R1代表做Raid1最大容量），完成后点击【Accept】
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H54x1m.png) 阵列配置完成！
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H45x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;弹出的任何提示均选择【yes】
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H46x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;回到配置页面，点击【Next】下一步
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H47x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;点击【Accept】配置完成！
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H48x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;提示保存，选择【yes】
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H49x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;（依Raid卡型号不同，有些可能没有此功能，如没有请跳过此步）提示SSD缓存，选择【Cancel】
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H50x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;提示初始化，选择【yes】
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H51x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;正在初始化，能看到百分比进度条（速度较快，可能一闪而过）
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H52x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;初始化完成！点击【Home】返回首页
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H53x1m.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;阵列配置完成！
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H54x1m.png" alt=""><figcaption></figcaption></figure>
 
 Raid1状态显示“Optimal”表示正常，Drives显示两块硬盘绿色Online正常，如果还有其它未使用的硬盘，会在unconfigured Drives下面蓝色显示。
 
-![img](http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H55x1m.png) 未使用的硬盘可以继续创建阵列，也可以配置成热备盘。
+&#x20;未使用的硬盘可以继续创建阵列，也可以配置成热备盘。
+
+<figure><img src="http://www.4008600011.com/wordpress/wp-content/uploads/2017/11/H55x1m.png" alt=""><figcaption></figcaption></figure>
 
 最后点击【Exit】退出，然后【Ctrl-Alt-Delete】组合键重启服务器！
 
@@ -610,6 +652,6 @@ Emergency Spare：即未配置热备盘时，如果配置了这个选项，则UG
 
 ![img](https://pic.chjina.com/2022/11/10/h041fm.png)
 
-引用
+**引用：**
 
-* \[(http://www.4008600011.com/archives/tag/一)
+{% embed url="http://www.4008600011.com/archives/393#4Raid" %}
