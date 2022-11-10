@@ -1,5 +1,11 @@
 # 启用MWAIT等
 
+**故障现象：**
+
+服务器加入集群或启用EVC模式时，报错：
+
+主机的CPU硬件应支持集群当前的增强型vMotion兼容性模式，但主机现在缺少某些必要的CPU功能。请检查主机的BIOS配置，确保未禁用必要的功能（例如Intel的XD、VT、AES或PCLMULQDQ，或者AMD的NX）
+
 **解决方案**
 
 1、对于双路M4服务器，Intel XD默认已开启，HT、VT和AES选项位置分别如下，请确保处于Enable状态。
