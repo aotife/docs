@@ -29,7 +29,7 @@
   * [浪潮](it-zhi-shi-ku/fu-wu-qi/lang-chao/README.md)
     * [RAID配置](it-zhi-shi-ku/fu-wu-qi/lang-chao/raid-pei-zhi/README.md)
       * [Ctrl+A  RAID配置](it-zhi-shi-ku/fu-wu-qi/lang-chao/raid-pei-zhi/ctrl+a-raid-pei-zhi.md)
-      * [浪潮Ctrl+H做Raid](it-zhi-shi-ku/fu-wu-qi/lang-chao/raid-pei-zhi/lang-chao-ctrl+h-zuo-raid.md)
+      * [Ctrl+H  RAID配置](it-zhi-shi-ku/fu-wu-qi/lang-chao/raid-pei-zhi/ctrl+h-raid-pei-zhi.md)
   * [华为](it-zhi-shi-ku/fu-wu-qi/hua-wei/README.md)
     * [华为2288H v5服务器开启MWAIT功能](it-zhi-shi-ku/fu-wu-qi/hua-wei/hua-wei-2288h-v5-fu-wu-qi-kai-qi-mwait-gong-neng.md)
 * [虚拟化](it-zhi-shi-ku/xu-ni-hua/README.md)

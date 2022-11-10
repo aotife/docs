@@ -1,4 +1,4 @@
-# 浪潮Ctrl+H做Raid
+# Ctrl+H  RAID配置
 
 ## Ctrl+H RAID卡配置步骤
 
