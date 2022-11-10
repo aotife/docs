@@ -1,3 +1,7 @@
+---
+description: 服务器型号：NF5280M4
+---
+
 # Ctrl+H  RAID配置
 
 ## Ctrl+H RAID卡配置步骤
