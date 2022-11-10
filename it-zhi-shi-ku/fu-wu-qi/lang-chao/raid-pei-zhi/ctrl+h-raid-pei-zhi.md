@@ -186,7 +186,9 @@ WebBIOS主页点击【Configuration Wizard】，打开配置向导
 
 Raid5状态显示“Optimal”表示正常，Drives显示四块硬盘绿色Online正常
 
-![img](https://pic.chjina.com/2022/11/10/H36-5.png) 最后点击【Exit】退出，然后【Ctrl-Alt-Delete】组合键重启服务器！
+&#x20;最后点击【Exit】退出，然后【Ctrl-Alt-Delete】组合键重启服务器！
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H36-5.png" alt=""><figcaption></figcaption></figure>
 
 ### 6．Raid0的配置
 
