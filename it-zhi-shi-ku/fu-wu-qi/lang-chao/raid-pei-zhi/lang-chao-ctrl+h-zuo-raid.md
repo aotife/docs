@@ -1,4 +1,4 @@
-# Ctrl+H RAID配置
+# 浪潮Ctrl+H做Raid
 
 ## Ctrl+H RAID卡配置步骤
 
@@ -16,9 +16,17 @@
 
 服务器开机自检到浪潮logo画面后，下一步就会进入Raid卡自检过程，此时显示器上会出现Ctrl -H提示，如下图：
 
-![img](https://pic.chjina.com/2022/11/10/h1-1.png) 按下Ctrl -H组合键后，自检完成就会进入Raid卡配置界面，如下图。在这里可以看到Raid卡的型号和Firmware固件版本，点击【Start】按钮进入Raid卡主页。
+&#x20;
 
-![img](https://pic.chjina.com/2022/11/10/h02.png) Raid卡首页叫作WebBIOS，如下图。左侧是功能菜单，右侧可以看到所有物理磁盘，本例安装了4块500G硬盘，后面所有的配置都可以在这里完成！
+<figure><img src="https://pic.chjina.com/2022/11/10/h1-1.png" alt=""><figcaption></figcaption></figure>
+
+按下Ctrl -H组合键后，自检完成就会进入Raid卡配置界面，如下图。在这里可以看到Raid卡的型号和Firmware固件版本，点击【Start】按钮进入Raid卡主页。
+
+&#x20;
+
+<figure><img src="https://pic.chjina.com/2022/11/10/h02.png" alt=""><figcaption></figcaption></figure>
+
+Raid卡首页叫作WebBIOS，如下图。左侧是功能菜单，右侧可以看到所有物理磁盘，本例安装了4块500G硬盘，后面所有的配置都可以在这里完成！
 
 ![img](https://pic.chjina.com/2022/11/10/H03.png)
 
@@ -52,11 +60,17 @@
 
 WebBIOS主页点击【Configuration Wizard】，打开配置向导
 
-![img](https://pic.chjina.com/2022/11/10/H09.png) 选择【Clear Configuration】，点击【Next】下一步
+&#x20;选择【Clear Configuration】，点击【Next】下一步
 
-![img](https://pic.chjina.com/2022/11/10/H10-2.png) 提示清除，选择【yes】
+<figure><img src="https://pic.chjina.com/2022/11/10/H09.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H11-1.png) 阵列删除成功！所有硬盘显示为蓝色unconfigured Good状态
+&#x20;提示清除，选择【yes】
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H10-2.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;阵列删除成功！所有硬盘显示为蓝色unconfigured Good状态
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H11-1.png" alt=""><figcaption></figcaption></figure>
 
 ![img](https://pic.chjina.com/2022/11/10/H12-1.png)
 
@@ -94,41 +108,77 @@ WebBIOS主页点击【Configuration Wizard】，打开配置向导
 
 在WebBIOS主页点击【Configuration Wizard】，打开配置向导
 
-![img](https://pic.chjina.com/2022/11/10/H18-5.png) 选择【Add Configuration】，点击【Next】下一步
+&#x20;选择【Add Configuration】，点击【Next】下一步
 
-![img](https://pic.chjina.com/2022/11/10/H19-5.png) 选择【Manual Configuration】，点击【Next】下一步
+<figure><img src="https://pic.chjina.com/2022/11/10/H18-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H20-5.png) 左侧方框内可以看到所有未使用的硬盘。我们选择全部（也可以逐个选择），然后点击下方的【Add to Array】将其加入到右侧方框内。
+&#x20;选择【Manual Configuration】，点击【Next】下一步
 
-![img](https://pic.chjina.com/2022/11/10/H21-5.png) 点击【Accept DG】，创建磁盘组
+<figure><img src="https://pic.chjina.com/2022/11/10/H19-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H23-5.png) 点击【Next】下一步
+&#x20;左侧方框内可以看到所有未使用的硬盘。我们选择全部（也可以逐个选择），然后点击下方的【Add to Array】将其加入到右侧方框内。
 
-![img](https://pic.chjina.com/2022/11/10/H23-5.png) 点击【Add to SPAN】，将刚才创建好的磁盘组加入到右侧方框内
+<figure><img src="https://pic.chjina.com/2022/11/10/H20-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H24-5.png) 点击【Next】下一步
+&#x20;点击【Accept DG】，创建磁盘组
 
-![img](https://pic.chjina.com/2022/11/10/H25-5.png) 阵列参数配置：第一个参数“Raid Level”选择Raid5，其余保持默认
+<figure><img src="https://pic.chjina.com/2022/11/10/H21-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H26-5.png) 最后一个参数“Select Size”输入阵列容量大小，最大值可参考右侧绿字提示（其中R5代表做Raid5的最大容量），完成后点击【Accept】
+&#x20;点击【Next】下一步
 
-![img](https://pic.chjina.com/2022/11/10/H27-5.png) 弹出的任何提示均选择【yes】
+<figure><img src="https://pic.chjina.com/2022/11/10/H23-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H28-5.png) 回到配置页面，点击【Next】下一步
+&#x20;点击【Add to SPAN】，将刚才创建好的磁盘组加入到右侧方框内
 
-![img](https://pic.chjina.com/2022/11/10/H29-5.png) 点击【Accept】配置完成！
+<figure><img src="https://pic.chjina.com/2022/11/10/H23-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H30-5.png) 提示保存，选择【yes】
+&#x20;点击【Next】下一步
 
-![img](https://pic.chjina.com/2022/11/10/H31-5.png) （依Raid卡型号不同，有些可能没有此功能，如没有请跳过此步）提示SSD缓存，选择【Cancel】
+<figure><img src="https://pic.chjina.com/2022/11/10/H24-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H32-5.png) 提示初始化，选择【yes】
+&#x20;阵列参数配置：第一个参数“Raid Level”选择Raid5，其余保持默认
 
-![img](https://pic.chjina.com/2022/11/10/H33-5.png) 正在初始化，能看到百分比进度条（速度较快，可能一闪而过）
+<figure><img src="https://pic.chjina.com/2022/11/10/H25-5.png" alt=""><figcaption></figcaption></figure>
 
-![img](https://pic.chjina.com/2022/11/10/H34-5.png) 初始化完成！点击【Home】返回首页
+&#x20;最后一个参数“Select Size”输入阵列容量大小，最大值可参考右侧绿字提示（其中R5代表做Raid5的最大容量），完成后点击【Accept】
 
-![img](https://pic.chjina.com/2022/11/10/H35-5.png) 阵列配置完成！
+<figure><img src="https://pic.chjina.com/2022/11/10/H26-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;弹出的任何提示均选择【yes】
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H27-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;回到配置页面，点击【Next】下一步
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H28-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;点击【Accept】配置完成！
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H29-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;提示保存，选择【yes】
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H30-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;（依Raid卡型号不同，有些可能没有此功能，如没有请跳过此步）提示SSD缓存，选择【Cancel】
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H31-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;提示初始化，选择【yes】
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H32-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;正在初始化，能看到百分比进度条（速度较快，可能一闪而过）
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H33-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;初始化完成！点击【Home】返回首页
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H34-5.png" alt=""><figcaption></figcaption></figure>
+
+&#x20;阵列配置完成！
+
+<figure><img src="https://pic.chjina.com/2022/11/10/H35-5.png" alt=""><figcaption></figcaption></figure>
 
 Raid5状态显示“Optimal”表示正常，Drives显示四块硬盘绿色Online正常
 
@@ -514,7 +564,7 @@ Emergency Spare：即未配置热备盘时，如果配置了这个选项，则UG
 
 ![img](https://pic.chjina.com/2022/11/10/h030fm.png)
 
-### \*\*3．\*\*多块硬盘显示红色PD Missing
+### 3．多块硬盘显示红色PD Missing
 
 进入WebBIOS主页，发现多块硬盘显示红色PD Missing状态，阵列已经挂掉变成了红色Offline状态，此时数据已经不可用，点击【Physical View】进入物理视图。
 
@@ -560,6 +610,6 @@ Emergency Spare：即未配置热备盘时，如果配置了这个选项，则UG
 
 ![img](https://pic.chjina.com/2022/11/10/h041fm.png)
 
-**引用：**
+引用
 
-{% embed url="http://www.4008600011.com/archives/393#4Raid" %}
+* \[(http://www.4008600011.com/archives/tag/一)
