@@ -1,6 +1,6 @@
 # VCSA6.7无DNS安装
 
-主要安装注意事项：
+官网文档主要安装注意事项：
 
 ## 第一阶段：
 
@@ -87,3 +87,7 @@ nslookup 192.169.1.22
 参考链接：
 
 {% embed url="https://www.cnblogs.com/itfat/p/15234566.html" %}
+
+{% embed url="https://docs.vmware.com/cn/VMware-vSphere/index.html" %}
+VMware 官方文档
+{% endembed %}
