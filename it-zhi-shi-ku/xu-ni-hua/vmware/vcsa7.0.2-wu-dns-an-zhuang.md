@@ -30,3 +30,19 @@ VCSA7.0默认的主机名是localhost，VCSA6.7默认的主机名是photon-machi
 ### 第二阶段
 
 * **如果你进入5480安装，并且更改了默认的主机名localhost，则/etc/hosts文件中的主机名和修改后的主机名一致**
+
+****
+
+****
+
+****
+
+****
+
+****
+
+参考链接：
+
+{% embed url="https://docs.vmware.com/cn/VMware-vSphere/index.html" %}
+VMware 官网文档
+{% endembed %}
