@@ -6,6 +6,7 @@
 
 * [GitHub](wang-zhan-shou-cang/github.md)
 * [趣站](wang-zhan-shou-cang/quzhan.md)
+* [个人博客](wang-zhan-shou-cang/ge-ren-bo-ke.md)
 
 ## IT知识库
 
