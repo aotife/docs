@@ -5,7 +5,7 @@
 ## 网站收藏
 
 * [GitHub](wang-zhan-shou-cang/github.md)
-* [趣站](wang-zhan-shou-cang/quzhan/README.md)
+* [趣站](wang-zhan-shou-cang/quzhan.md)
   * [工具类](wang-zhan-shou-cang/quzhan/gong-ju-lei.md)
 * [个人博客](wang-zhan-shou-cang/ge-ren-bo-ke.md)
 
