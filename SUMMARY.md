@@ -25,7 +25,7 @@
     * [5.交换机作为SSH客户端登录出错](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/5.-jiao-huan-ji-zuo-wei-ssh-ke-hu-duan-deng-lu-chu-cuo.md)
   * [华为](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/README.md)
     * [华为交换机开启远程Telnet登录](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/hua-wei-jiao-huan-ji-kai-qi-yuan-cheng-telnet-deng-lu.md)
-  * [锐捷](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie/README.md)
+  * [锐捷](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie.md)
     * [常用命令](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie/chang-yong-ming-ling.md)
   * [戴尔](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/README.md)
     * [DELL 网络交换机 基本配置说明](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/dell-wang-luo-jiao-huan-ji-ji-ben-pei-zhi-shuo-ming.md)
