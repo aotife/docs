@@ -1,4 +1,4 @@
-# linux使用iso镜像作为私有源
+# CentOS使用iso镜像作为私有源
 
 小计：
 
