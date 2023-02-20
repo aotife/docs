@@ -37,19 +37,19 @@ tmpfs                    182M     0  182M    0% /run/user/0
 
 5.备份yum源
 
-​ 5.1进入yum源目录
+​           5.1进入yum源目录
 
 ```
 [root@localhost /]# cd /etc/yum.repos.d/
 ```
 
-​ 5.2 创建备份文件夹backup
+​​            5.2 创建备份文件夹backup
 
 ```
 [root@localhost yum.repos.d]# mkdir -pv backup
 ```
 
-​ 5.3 备份到backup文件夹
+​ ​           5.3 备份到backup文件夹
 
 ```
 [root@localhost yum.repos.d]# mv ./*.repo ./backup
@@ -61,7 +61,7 @@ tmpfs                    182M     0  182M    0% /run/user/0
 [root@localhost yum.repos.d]# vi local.repo
 ```
 
-​ 6.1编写local.repo yum源
+​ ​           6.1编写local.repo yum源
 
 ```
 [LocalRepo]
