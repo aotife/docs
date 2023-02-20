@@ -51,6 +51,7 @@
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
     * [CentOS网卡配置](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-wang-ka-pei-zhi.md)
     * [CentOS重置密码](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-zhong-zhi-mi-ma.md)
+    * [CentOS使用iso镜像作为私有源](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos-shi-yong-iso-jing-xiang-zuo-wei-si-you-yuan.md)
 * [KMS激活命令](it-zhi-shi-ku/kms-ji-huo-ming-ling/README.md)
   * [kms命令激活office](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-office.md)
   * [kms命令激活windows系统](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-windows-xi-tong.md)
