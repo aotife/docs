@@ -30,6 +30,7 @@
     * [常用命令](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie/chang-yong-ming-ling.md)
   * [戴尔](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/README.md)
     * [DELL 网络交换机 基本配置说明](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/dell-wang-luo-jiao-huan-ji-ji-ben-pei-zhi-shuo-ming.md)
+  * [博科SAN交换机基本配置](it-zhi-shi-ku/lu-you-jiao-huan/bo-ke-san-jiao-huan-ji-ji-ben-pei-zhi.md)
 * [服务器](it-zhi-shi-ku/fu-wu-qi/README.md)
   * [浪潮](it-zhi-shi-ku/fu-wu-qi/lang-chao/README.md)
     * [RAID配置](it-zhi-shi-ku/fu-wu-qi/lang-chao/raid-pei-zhi/README.md)
