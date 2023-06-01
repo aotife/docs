@@ -67,3 +67,4 @@
 ## 捡垃圾
 
 * [空气果Fun](jian-la-ji/kong-qi-guo-fun.md)
+* [合宙Air700E/780E短信转发](jian-la-ji/he-zhou-air700e780e-duan-xin-zhuan-fa.md)

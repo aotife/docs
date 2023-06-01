@@ -281,6 +281,8 @@ Renumbering the member ID may result in configuration change or loss. Continue? 
 
 \# 创建VLAN 3，并将端口GigabitEthernet1/0/1、GigabitEthernet2/0/1、GigabitEthernet3/0/1和GigabitEthernet4/0/1加入VLAN 3中。 # 此VLAN只能作为BFD MAD检测用，不要用于其他业务。
 
+**如设备配置多条检测链路，只需要将对应端口加入到检测VLAN里即可，并关闭端口的STP。并且不配置链路聚合**
+
 ```
 [Sysname] vlan 3
 [Sysname-vlan3] port gigabitethernet 1/0/1 gigabitethernet 2/0/1 gigabitethernet 3/0/1 gigabitethernet 4/0/1
@@ -343,6 +345,8 @@ Device E作为中间设备来透传BFD MAD报文，协助IRF中的四台成员�
 ```
 
 \# 将端口GigabitEthernet1/0/1、GigabitEthernet2/0/1加入到三层聚合口内。
+
+**如有配置多条检测链路，只需要将对应的端口加入到聚合组即可**
 
 ```
 [Sysname] interface GigabitEthernet1/0/1
