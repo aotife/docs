@@ -2,7 +2,7 @@
 description: 浪潮服务器Raid配置说明
 ---
 
-# RAID配置
+# Ctrl+A  RAID配置
 
 #### 特别说明！
 
@@ -341,7 +341,7 @@ PM8060 RAID卡配置界面下没有Create JBOD选项，而是通过uninitialize�
 
 热备盘的作用是如果阵列中有硬盘发生故障，热备盘可以立即顶替，及时将阵列恢复为正常状态。
 
-PM8060 RAID卡配置界面没有”Global Hotspares”选项，可以在操作系统下使用 [**arcconf**](http://www.4008600011.com/wp-content/uploads/2018/01/arcconf.zip) **** 工具配置，有些机型也支持在BIOS中配置（**NF84XX/TS8xx的服务器不支持在BIOS中配置**）。
+PM8060 RAID卡配置界面没有”Global Hotspares”选项，可以在操作系统下使用 [**arcconf**](http://www.4008600011.com/wp-content/uploads/2018/01/arcconf.zip) 工具配置，有些机型也支持在BIOS中配置（**NF84XX/TS8xx的服务器不支持在BIOS中配置**）。
 
 不同机型的BIOS界面可能不同，有两种界面配置方法。
 

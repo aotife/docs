@@ -18,6 +18,8 @@
     * [DHCP](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/dhcp/README.md)
       * [IP Source Guard与DHCP Snooping配合的IPv4动态绑定功能配置举例](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/dhcp/ip-source-guard-yu-dhcp-snooping-pei-he-de-ipv4-dong-tai-bang-ding-gong-neng-pei-zhi-ju-li.md)
       * [DHCP Snooping典型配置举例](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/dhcp/dhcp-snooping-dian-xing-pei-zhi-ju-li.md)
+    * [Page 1](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/page-1/README.md)
+      * [华三交换机配置NTP](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/page-1/hua-san-jiao-huan-ji-pei-zhi-ntp.md)
     * [1.端口镜像配置](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/1.-duan-kou-jing-xiang-pei-zhi.md)
     * [2.链路聚合](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/2.-lian-lu-ju-he.md)
     * [3 IRF堆叠](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/3-irf-dui-die.md)
