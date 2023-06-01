@@ -24,6 +24,7 @@
     * [4.ARP网关保护功能](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/4.arp-wang-guan-bao-hu-gong-neng.md)
     * [5.交换机作为SSH客户端登录出错](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/5.-jiao-huan-ji-zuo-wei-ssh-ke-hu-duan-deng-lu-chu-cuo.md)
     * [6.策略路由改变下一跳](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/6.-ce-lve-lu-you-gai-bian-xia-yi-tiao.md)
+    * [7.交换机密码策略实现的解决办法](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/7.-jiao-huan-ji-mi-ma-ce-lve-shi-xian-de-jie-jue-ban-fa.md)
   * [华为](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/README.md)
     * [华为交换机开启远程Telnet登录](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/hua-wei-jiao-huan-ji-kai-qi-yuan-cheng-telnet-deng-lu.md)
   * [锐捷](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie.md)
