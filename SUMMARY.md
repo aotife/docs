@@ -28,7 +28,7 @@
     * [8.华三交换机配置NTP](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/8.-hua-san-jiao-huan-ji-pei-zhi-ntp.md)
   * [华为](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/README.md)
     * [华为交换机开启远程Telnet登录](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/hua-wei-jiao-huan-ji-kai-qi-yuan-cheng-telnet-deng-lu.md)
-    * [配置链路聚合](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/pei-zhi-lian-lu-ju-he.md)
+    * [华为交换机配置链路聚合](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/hua-wei-jiao-huan-ji-pei-zhi-lian-lu-ju-he.md)
   * [锐捷](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie.md)
     * [常用命令](it-zhi-shi-ku/lu-you-jiao-huan/rui-jie/chang-yong-ming-ling.md)
   * [戴尔](it-zhi-shi-ku/lu-you-jiao-huan/dai-er/README.md)
