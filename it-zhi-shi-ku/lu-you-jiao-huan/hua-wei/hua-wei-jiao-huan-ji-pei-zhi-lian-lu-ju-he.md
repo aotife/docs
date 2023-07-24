@@ -26,7 +26,9 @@
 
 **图3-75** 配置手工模式链路聚合组网图
 
-&#x20;![img](https://pic.chjina.com/2023/07/24/download)
+&#x20;
+
+<figure><img src="https://pic.chjina.com/2023/07/24/download" alt=""><figcaption></figcaption></figure>
 
 ### 配置思路
 
@@ -135,7 +137,9 @@ LACP模式下，部分链路是活动链路，所有活动链路均参与数据�
 
 **图3-76** 配置LACP模式链路聚合组网图
 
-&#x20;![img](https://pic.chjina.com/2023/07/24/download)
+&#x20;
+
+<figure><img src="https://pic.chjina.com/2023/07/24/download" alt=""><figcaption></figcaption></figure>
 
 ### 配置思路
 
