@@ -54,4 +54,9 @@ VC_CFG_RESULT=0
 
 引用：
 
-https://www.dinghui.org/increasing-the-disk-space-for-the-vcenter-server-appliance.html
+
+
+
+
+{% embed url="https://www.dinghui.org/increasing-the-disk-space-for-the-vcenter-server-appliance.html" %}
+
