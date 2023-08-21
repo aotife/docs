@@ -14,27 +14,39 @@
 
 ### 2、选择“菜单”>>“策略和配置文件”，在“主机配置文件”中找到提取的配置文件。
 
+
+
+<figure><img src="https://pic.chjina.com/2023/08/21/image-7.png" alt=""><figcaption></figcaption></figure>
+
 ### 3、选中配置文件，右击点击“编辑主机配置文件”。
 
-### 取消所有的勾选项。依次选择“安全和服务” >>“安全设置” >>“安全”>>“用户配置”，然后勾选“root”。将密码策略修改成“**固定的密码配置**”，输入要修改的密码，然后点击“保存”。
+取消所有的勾选项。依次选择“安全和服务” >>“安全设置” >>“安全”>>“用户配置”，然后勾选“root”。将密码策略修改成“**固定的密码配置**”，输入要修改的密码，然后点击“保存”。
 
-![img](https://pic.chjina.com/2023/08/21/image-8.png)
+
+
+<figure><img src="https://pic.chjina.com/2023/08/21/image-8.png" alt=""><figcaption></figcaption></figure>
 
 ### 4、依次选中要重置密码的主机， 右键选择“主机配置文件”>>点击“附加主机配置文件”。
 
-### ![img](https://pic.chjina.com/2023/08/21/image-10.png)
+
+
+<figure><img src="https://pic.chjina.com/2023/08/21/image-10.png" alt=""><figcaption></figcaption></figure>
 
 ### 5、修复主机配置文件
 
 选择“菜单”>>“策略和配置文件”，在“主机配置文件”中找到提取的配置文件。 操作，
 
-![img](https://pic.chjina.com/2023/08/21/image-11.png)
+
+
+<figure><img src="https://pic.chjina.com/2023/08/21/image-11.png" alt=""><figcaption></figcaption></figure>
 
 取消勾选“自动重新引导需要修复的主机”，点击修复。等待任务执行完毕。
 
 ### 6、验证
 
 登录web client，输入账号和密码进行验证。
+
+
 
 
 
@@ -48,3 +60,4 @@
 
 {% embed url="https://www.dinghui.org/reset-esxi-root-password-using-vmware-host-profile.html" %}
 
+https://www.dinghui.org/reset-esxi-root-password-using-vmware-host-profile.html

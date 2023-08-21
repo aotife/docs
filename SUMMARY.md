@@ -52,6 +52,7 @@
     * [vCenter扩容硬盘](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter-kuo-rong-ying-pan.md)
     * [vCenter重置ESXi主机root密码](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter-zhong-zhi-esxi-zhu-ji-root-mi-ma.md)
     * [VMware 系列 密钥](it-zhi-shi-ku/xu-ni-hua/vmware/vmware-xi-lie-mi-yue.md)
+    * [vCenter重置ESXi主机root密码](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter-zhong-zhi-esxi-zhu-ji-root-mi-ma-1.md)
 * [系统配置和优化](it-zhi-shi-ku/xi-tong-pei-zhi/README.md)
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
     * [Windows挂载NFS](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-gua-zai-nfs.md)
