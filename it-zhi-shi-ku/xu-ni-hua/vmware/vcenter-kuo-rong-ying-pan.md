@@ -52,11 +52,32 @@ VC_CFG_RESULT=0
 
 ![image-20230821142241060](https://pic.chjina.com/2023/08/21/image-20230821142241060.png)
 
-引用：
+### **vCenter Server Appliance 6.7/7.0 的 VMDK的大小/挂载点/目的列表**
+
+| **磁盘** (VMDK) | **默认大小** （微型，具有默认存储大小） | **挂载点**                             | **目的**                                                                        |
+| ------------- | ---------------------- | ----------------------------------- | ----------------------------------------------------------------------------- |
+| VMDK1         | 12 GB                  | /(10 GB) /boot (132 MB) SWAP (1 GB) | 存储内核映像和引导加载程序配置的目录。                                                           |
+| VMDK2         | 1.8 GB                 | /tmp                                | 用于存储 vCenter Server 中的服务生成或使用的临时文件的目录                                         |
+| VMDK3         | 25 GB                  | SWAP                                | 系统内存不足时用于交换到磁盘的目录                                                             |
+| VMDK4         | 25 GB                  | /storage/core                       | 用于存储 vCenter Server 中 VPXD 进程的核心转储文件的目录                                       |
+| VMDK5         | 10 GB                  | /storage/log                        | vCenter Server 和 Platform Services Controller 存储环境的所有日志的目录                    |
+| VMDK6         | 10 GB                  | /storage/db                         | VMware Postgres 数据库存储位置                                                       |
+| VMDK7         | 5 GB                   | /storage/dblog                      | VMware Postgres 数据库日志记录位置                                                     |
+| VMDK8         | 10 GB                  | /storage/seat                       | VMware Postgres 的统计信息、事件、警报和任务 (SEAT) 目录                                      |
+| VMDK9         | 1 GB                   | /storage/netdump                    | VMware Netdump Collector 存储库，用于存储 ESXi 转储                                     |
+| VMDK10        | 10 GB                  | /storage/autodeploy                 | VMware Auto Deploy 存储库，存储用于 ESXi 主机无状态引导的 thinpackage                         |
+| VMDK11        | 10 GB                  | /storage/imagebuilder               | VMware Image Builder 存储库，用于存储 vSphere 映像配置文件、软件库和 VIB 软件包，例如驱动程序 VIB 和更新 VIB。 |
+| VMDK12        | 100 GB                 | /storage/updatemgr                  | VMware Update Manager 存储库，用于存储虚拟机和 ESXi 主机的修补程序和更新                            |
+| VMDK13        | 50 GB                  | /storage/archive                    | VMware Postgres 数据库的预写日志记录 (WAL) 位置                                           |
+
+
+
+
+
+引用参考：
 
 
 
 
 
 {% embed url="https://www.dinghui.org/increasing-the-disk-space-for-the-vcenter-server-appliance.html" %}
-
