@@ -58,6 +58,7 @@
     * [Windows Server 链路聚合配置](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows-server-lian-lu-ju-he-pei-zhi.md)
     * [Windows 远程提示函数不受支持](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows-yuan-cheng-ti-shi-han-shu-bu-shou-zhi-chi.md)
     * [Windows系统配置NTP服务器](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows-xi-tong-pei-zhi-ntp-fu-wu-qi.md)
+    * [Windows11系统初始化无网络连接](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows11-xi-tong-chu-shi-hua-wu-wang-luo-lian-jie.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
     * [CentOS网卡配置](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-wang-ka-pei-zhi.md)
     * [CentOS重置密码](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-zhong-zhi-mi-ma.md)
