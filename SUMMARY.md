@@ -52,6 +52,7 @@
     * [vCenter重置ESXi主机root密码](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter-zhong-zhi-esxi-zhu-ji-root-mi-ma.md)
     * [vCenter扩容硬盘](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter-kuo-rong-ying-pan.md)
     * [VMware 系列 密钥](it-zhi-shi-ku/xu-ni-hua/vmware/vmware-xi-lie-mi-yue.md)
+    * [使用命令升级ESXI系统(补丁)](it-zhi-shi-ku/xu-ni-hua/vmware/shi-yong-ming-ling-sheng-ji-esxi-xi-tong-bu-ding.md)
 * [系统配置和优化](it-zhi-shi-ku/xi-tong-pei-zhi/README.md)
   * [Windows](it-zhi-shi-ku/xi-tong-pei-zhi/windows/README.md)
     * [Windows挂载NFS](it-zhi-shi-ku/xi-tong-pei-zhi/windows/windows-gua-zai-nfs.md)
