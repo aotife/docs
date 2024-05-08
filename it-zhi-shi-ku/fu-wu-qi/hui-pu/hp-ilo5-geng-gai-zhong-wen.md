@@ -10,7 +10,7 @@
 
 ![image-20230220153803375](https://pic.chjina.com/2023/02/20/image-20230220153803375.png)
 
-选择本段的中文语言包
+选择本段的中文语言包，下载地址：\[无为网盘 (chjina.com)]\(https://drive.chjina.com/zh-CN/驱动/HP/ILO 中文语言包/iLO5/)
 
 ![image-20230220153810997](https://pic.chjina.com/2023/02/20/image-20230220153810997.png)
 
