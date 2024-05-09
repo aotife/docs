@@ -21,7 +21,7 @@
       * [DHCP Snooping典型配置举例](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/dhcp/dhcp-snooping-dian-xing-pei-zhi-ju-li.md)
     * [1.端口镜像配置](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/1.-duan-kou-jing-xiang-pei-zhi.md)
     * [2.链路聚合](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/2.-lian-lu-ju-he.md)
-    * [3 IRF堆叠](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/3-irf-dui-die.md)
+    * [3.IRF堆叠](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/3.irf-dui-die.md)
     * [4.ARP网关保护功能](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/4.arp-wang-guan-bao-hu-gong-neng.md)
     * [5.交换机作为SSH客户端登录出错](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/5.-jiao-huan-ji-zuo-wei-ssh-ke-hu-duan-deng-lu-chu-cuo.md)
     * [6.策略路由改变下一跳](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/6.-ce-lve-lu-you-gai-bian-xia-yi-tiao.md)
