@@ -8,7 +8,7 @@
 * [趣站](wang-zhan-shou-cang/quzhan.md)
   * [工具类](wang-zhan-shou-cang/quzhan/gong-ju-lei.md)
   * [网络工具](wang-zhan-shou-cang/quzhan/wang-luo-gong-ju.md)
-* [个人博客](wang-zhan-shou-cang/ge-ren-bo-ke.md)
+  * [网络空间资产](wang-zhan-shou-cang/quzhan/wang-luo-kong-jian-zi-chan.md)
 
 ## IT知识库
 
@@ -64,11 +64,14 @@
     * [Windows系统配置NTP服务器](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows-xi-tong-pei-zhi-ntp-fu-wu-qi.md)
     * [Windows11系统初始化无网络连接](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows11-xi-tong-chu-shi-hua-wu-wang-luo-lian-jie.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
-    * [CentOS网卡配置](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-wang-ka-pei-zhi.md)
-    * [CentOS重置密码](it-zhi-shi-ku/xi-tong-pei-zhi/linux/centos-zhong-zhi-mi-ma.md)
-    * [CentOS使用iso镜像作为私有源](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos-shi-yong-iso-jing-xiang-zuo-wei-si-you-yuan.md)
-    * [CentOS防火墙](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos-fang-huo-qiang.md)
-    * [创建systemd service服务](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/chuang-jian-systemd-service-fu-wu.md)
+    * [Centos](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/README.md)
+      * [CentOS网卡配置](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/centos-wang-ka-pei-zhi.md)
+      * [CentOS重置密码](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/centos-zhong-zhi-mi-ma.md)
+      * [CentOS使用iso镜像作为私有源](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/centos-shi-yong-iso-jing-xiang-zuo-wei-si-you-yuan.md)
+      * [CentOS防火墙](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/centos-fang-huo-qiang.md)
+      * [创建systemd service服务](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/chuang-jian-systemd-service-fu-wu.md)
+    * [Ubuntu](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/README.md)
+      * [Ubuntu安装ssh](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/ubuntu-an-zhuang-ssh.md)
 * [KMS激活命令](it-zhi-shi-ku/kms-ji-huo-ming-ling/README.md)
   * [kms命令激活office](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-office.md)
   * [kms命令激活windows系统](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-windows-xi-tong.md)
