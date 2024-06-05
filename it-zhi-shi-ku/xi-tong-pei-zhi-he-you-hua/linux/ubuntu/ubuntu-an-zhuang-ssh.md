@@ -28,7 +28,7 @@ sudo ufw allow ssh
 
 ### Ubuntu主机不能联网
 
-[点击下载离线安装包](https://drive.chjina.com/api/raw/?path=/ISO/Linux/Ubuntu/deb%E5%8C%85/sshd/)
+[点击下载离线安装包](https://drive.chjina.com/ISO/Linux/Ubuntu/deb%E5%8C%85/sshd/)
 
 上传到Ubuntu主机内
 
