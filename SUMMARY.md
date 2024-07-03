@@ -28,6 +28,7 @@
     * [7.交换机密码策略实现的解决办法](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/7.-jiao-huan-ji-mi-ma-ce-lve-shi-xian-de-jie-jue-ban-fa.md)
     * [8.华三交换机配置NTP](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/8.-hua-san-jiao-huan-ji-pei-zhi-ntp.md)
     * [9.环路检测配置举例](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/9.-huan-lu-jian-ce-pei-zhi-ju-li.md)
+    * [10.静态路由、Track与NQA联动，设置浮动备份路由](it-zhi-shi-ku/lu-you-jiao-huan/hua-san/10.-jing-tai-lu-you-track-yu-nqa-lian-dong-she-zhi-fu-dong-bei-fen-lu-you.md)
   * [华为](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/README.md)
     * [华为交换机开启远程Telnet登录](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/hua-wei-jiao-huan-ji-kai-qi-yuan-cheng-telnet-deng-lu.md)
     * [华为交换机配置链路聚合](it-zhi-shi-ku/lu-you-jiao-huan/hua-wei/hua-wei-jiao-huan-ji-pei-zhi-lian-lu-ju-he.md)
