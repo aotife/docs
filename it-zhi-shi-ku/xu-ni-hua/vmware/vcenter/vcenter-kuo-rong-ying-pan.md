@@ -39,6 +39,11 @@ https://192.168.1.1:5480
 ssh登录vcsa，输入一下命令进行扩容硬盘
 
 ```
+shell
+vpxd_servicecfg storage lvm autogrow
+```
+
+```
 Command> 
 Command> shell
 Shell access is granted to root
@@ -51,6 +56,16 @@ VC_CFG_RESULT=0
 ### 4.查看扩容后的容量
 
 ![image-20230821142241060](https://pic.chjina.com/2023/08/21/image-20230821142241060.png)
+
+### 5.重启服务
+
+```
+service-control --start --all
+```
+
+### 6.重新登录vcsa的5480端口查看状态，
+
+已经扩容成功了，健康状态也显示正常了
 
 ### **vCenter Server Appliance 6.7/7.0 的 VMDK的大小/挂载点/目的列表**
 
@@ -70,14 +85,6 @@ VC_CFG_RESULT=0
 | VMDK12        | 100 GB                 | /storage/updatemgr                  | VMware Update Manager 存储库，用于存储虚拟机和 ESXi 主机的修补程序和更新                            |
 | VMDK13        | 50 GB                  | /storage/archive                    | VMware Postgres 数据库的预写日志记录 (WAL) 位置                                           |
 
+引用：
 
-
-
-
-引用参考：
-
-
-
-
-
-{% embed url="https://www.dinghui.org/increasing-the-disk-space-for-the-vcenter-server-appliance.html" %}
+https://www.dinghui.org/increasing-the-disk-space-for-the-vcenter-server-appliance.html

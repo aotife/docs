@@ -56,6 +56,7 @@
       * [VCSA6.7无DNS安装](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter/vcsa6.7-wu-dns-an-zhuang.md)
       * [VCSA7.0.2无DNS安装](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter/vcsa7.0.2-wu-dns-an-zhuang.md)
       * [vCenter扩容硬盘](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter/vcenter-kuo-rong-ying-pan.md)
+      * [Vcenter 由于一个或多个 vCenter Server 系统的凭据无效，登录失败](it-zhi-shi-ku/xu-ni-hua/vmware/vcenter/vcenter-you-yu-yi-ge-huo-duo-ge-vcenter-server-xi-tong-de-ping-ju-wu-xiao-deng-lu-shi-bai.md)
     * [ESXi](it-zhi-shi-ku/xu-ni-hua/vmware/esxi/README.md)
       * [使用命令升级ESXI系统(补丁)](it-zhi-shi-ku/xu-ni-hua/vmware/esxi/shi-yong-ming-ling-sheng-ji-esxi-xi-tong-bu-ding.md)
       * [ESXi覆盖安装重置root密码](it-zhi-shi-ku/xu-ni-hua/vmware/esxi/esxi-fu-gai-an-zhuang-zhong-zhi-root-mi-ma.md)
