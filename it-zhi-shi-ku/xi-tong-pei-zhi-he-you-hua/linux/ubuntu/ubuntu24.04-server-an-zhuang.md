@@ -4,7 +4,9 @@
 
 ![img](https://pic.chjina.com/2024/08/19/476eb5e6473576881f4ebca0d92101ef.jpeg)
 
-### 2.这里的语言选择的是安装过程中的语言，默认使用英文就好。![img](https://pic.chjina.com/2024/08/19/98fdb28019f498eca58add6810fd01b2.jpg)
+### 2.这里的语言选择的是安装过程中的语言，默认使用英文就好。
+
+![img](https://pic.chjina.com/2024/08/19/98fdb28019f498eca58add6810fd01b2.jpg)
 
 ### 3.配置键盘布局，默认即可。
 
