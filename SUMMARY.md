@@ -77,6 +77,8 @@
       * [创建systemd service服务](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/chuang-jian-systemd-service-fu-wu.md)
     * [Ubuntu](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/README.md)
       * [Ubuntu安装ssh](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/ubuntu-an-zhuang-ssh.md)
+      * [Ubuntu-24.04 server安装](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/ubuntu24.04-server-an-zhuang.md)
+      * [Ubuntu修改ip地址](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/ubuntu-xiu-gai-ip-di-zhi.md)
 * [KMS激活命令](it-zhi-shi-ku/kms-ji-huo-ming-ling/README.md)
   * [kms命令激活office](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-office.md)
   * [kms命令激活windows系统](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-windows-xi-tong.md)
