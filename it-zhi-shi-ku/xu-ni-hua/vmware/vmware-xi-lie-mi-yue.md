@@ -35,3 +35,6 @@ description: 本文所公布的密钥均为互联网所得，本文章仅作整�
 | vSphere ESXi 8.0 Enterprise      | 4F40H-4ML1K-M89U0-0C2N4-1AKL4                                                                          |
 | vCenter 8.0                      | <p>0Z20K-07JEH-08030-908EP-1CUK4<br>0F41K-0MJ4H-M88U1-0C3N0-0A214<br>4F282-0MLD2-M8869-T89G0-CF240</p> |
 | VSAN 8.0                         | NF212-08H0K-488X8-WV9X6-1F024                                                                          |
+| NSX-T Enterprise Plus            | 5V00K-0C012-M88A9-M02N6-9P244                                                                          |
+| NSX Data Center Enterprise Plus  | 0V282-0JHD0-H89M9-892GM-CUAN                                                                           |
+
