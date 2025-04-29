@@ -447,7 +447,7 @@ Windows系统下：
 
 3.配置热备： arcconf.exe  setstate 1 device _\<Channel#>   \<Device#>_  hsp
 
-其中_\<Channel#>_ 和_\<Device#>_以实际的channel号和device编号为准，例如硬盘的channel号是0，device号是2，实际命令为：arcconf.exe setstate 1 device _0  2_  hsp
+其&#x4E2D;_\<Channel#>_ &#x548C;_\<Device#>_&#x4EE5;实际的channel号和device编号为准，例如硬盘的channel号是0，device号是2，实际命令为：arcconf.exe setstate 1 device _0  2_  hsp
 
 可以通过**arcconf.exe  getconfig 1 pd 查看硬盘状态是否配置成功。**
 
@@ -455,7 +455,7 @@ Windows系统下：
 
 **查看硬盘：./arcconf  getconfig 1 pd**
 
-**配置热备： ./arcconf  setstate 1 device  **_**\<Channel#>   \<Device#>**_**  hsp**
+**配置热备： ./arcconf  setstate 1 device &#x20;**_**\<Channel#>   \<Device#>**_**&#x20; hsp**
 
 ### **1.11 控制器属性配置**
 
