@@ -80,6 +80,7 @@
       * [Ubuntu安装ssh](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/ubuntu-an-zhuang-ssh.md)
       * [Ubuntu修改ip地址](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/ubuntu/ubuntu-xiu-gai-ip-di-zhi.md)
 * [Docker](it-zhi-shi-ku/docker/README.md)
+  * [Docker常用命令](it-zhi-shi-ku/docker/docker-chang-yong-ming-ling.md)
   * [UFW管理Docker端口](it-zhi-shi-ku/docker/ufw-guan-li-docker-duan-kou.md)
 * [KMS激活命令](it-zhi-shi-ku/kms-ji-huo-ming-ling/README.md)
   * [kms命令激活office](it-zhi-shi-ku/kms-ji-huo-ming-ling/kms-ming-ling-ji-huo-office.md)
