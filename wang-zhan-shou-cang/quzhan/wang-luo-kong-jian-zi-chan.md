@@ -54,6 +54,8 @@ https://github.com/G3et/Search\_Viewer
 
 **ARL资产灯塔系统**
 
+**项目已经被官方移除了，可以找之前fork的版本**
+
 ARL(Asset Reconnaissance Lighthouse)资产侦察灯塔系统旨在快速侦察与目标关联的互联网资产，构建基础资产信息库。协助甲方安全团队或者渗透测试人员有效侦察和检索资产，以攻击者视角持续探测资产风险，协助用户时刻洞察资产动态，掌握安全防护薄弱点，快速收敛攻击面。
 
 项目地址：https://github.com/TophantTechnology/ARL
