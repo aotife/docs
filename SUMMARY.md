@@ -69,6 +69,7 @@
     * [Windows系统配置NTP服务器](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows-xi-tong-pei-zhi-ntp-fu-wu-qi.md)
     * [Windows11系统初始化无网络连接](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows11-xi-tong-chu-shi-hua-wu-wang-luo-lian-jie.md)
     * [Windows11 右键恢复原始菜单](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/windows11-you-jian-hui-fu-yuan-shi-cai-dan.md)
+    * [向日葵远程无显示器后分辨率最小 WIN版虚拟显示器usbmmidd\_v2](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/windows/xiang-ri-kui-yuan-cheng-wu-xian-shi-qi-hou-fen-bianlzui-xiao-win-ban-xu-ni-xian-shi-qi-usbmmiddv2.md)
   * [Linux](it-zhi-shi-ku/xi-tong-pei-zhi/linux.md)
     * [Centos](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/README.md)
       * [CentOS网卡配置](it-zhi-shi-ku/xi-tong-pei-zhi-he-you-hua/linux/centos/centos-wang-ka-pei-zhi.md)
