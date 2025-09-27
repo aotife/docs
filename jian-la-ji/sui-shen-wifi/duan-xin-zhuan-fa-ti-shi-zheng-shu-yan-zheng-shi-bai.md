@@ -1,6 +1,6 @@
 # 短信转发提示证书验证失败
 
-用高通随身WIFI安装短信转发 [GitHub](https://github.com/pppscn/SmsForwarder/)应用，设置微信群机器人通道时，提示证书验证失败。
+用高通随身WIFI安装短信转发 [GitHub](https://github.com/pppscn/SmsForwarder/)应用，设置通道时，提示证书验证失败。
 
 ![img](https://pic.chjina.com/2025/09/27/7f2bc2e4217fddf7cc605211dbd74efb.png)
 
