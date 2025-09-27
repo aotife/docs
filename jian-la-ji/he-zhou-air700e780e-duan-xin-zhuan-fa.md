@@ -1,4 +1,4 @@
-# 合宙Air700E/780E短信转发
+# 合宙Air700E780E短信转发
 
 前几天撸了个合宙的 Air700E开发板用来做短信转发。
 
@@ -20,19 +20,15 @@
 
 ### LuaTools 安装
 
-1、下载[Luatools\_v2.7z](https://luatos.com/luatools/download/last)，解压后是一个文件名为Luatools\_v2.exe的运行程序。 2、新建一个 LuaTools文件夹，将Luatools\_v2.exe拷贝或移动到LuaTools文件夹下 3、双击 Luatools\_v2.exe开始安装，出现如下情况，点击更多信息选项，然后选择仍要运行选项即可完成安装。
-
-&#x20;![image.png](https://sjwx.easydoc.xyz/36623104/files/l2uax3n1.png)![image.png](https://sjwx.easydoc.xyz/36623104/files/l2uaxyl1.png)&#x20;
-
-4、运行Luatools后会提示开始升级，点击开始，进行升级，升级完成后可正常使用。
-
-&#x20;![image.png](https://sjwx.easydoc.xyz/36623104/files/l2ub1ffq.png)
+1、下载[Luatools\_v2.7z](https://luatos.com/luatools/download/last)，解压后是一个文件名为Luatools\_v2.exe的运行程序。 2、新建一个 LuaTools文件夹，将Luatools\_v2.exe拷贝或移动到LuaTools文件夹下 3、双击 Luatools\_v2.exe开始安装，出现如下情况，点击更多信息选项，然后选择仍要运行选项即可完成安装。 ![img](https://pic.chjina.com/2025/09/27/cc8151d8f1378afbc5ba8b35c8af6497.png) 4、运行Luatools后会提示开始升级，点击开始，进行升级，升级完成后可正常使用。
 
 ## 2.下载短信转发项目
 
 #### 2.1下载作者的GitHub项目
 
 [GitHub - 0wQ/air780e-forwarder: Air700E / Air780E / Air780EG 短信转发 (不支持电信卡, Air700E 只支持移动卡)](https://github.com/0wQ/air780e-forwarder)
+
+其他项目 https://github.com/hsSam/air780e-forwarder/
 
 下载下来会有两个文件夹
 

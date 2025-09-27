@@ -97,7 +97,7 @@
 ## 捡垃圾
 
 * [空气果Fun](jian-la-ji/kong-qi-guo-fun.md)
-* [合宙Air700E/780E短信转发](jian-la-ji/he-zhou-air700e780e-duan-xin-zhuan-fa.md)
+* [合宙Air700E780E短信转发](jian-la-ji/he-zhou-air700e780e-duan-xin-zhuan-fa.md)
 * [随身WIFI](jian-la-ji/sui-shen-wifi/README.md)
   * [高通随身WIFI，短信转发自动开启WIFI，关闭数据流量](jian-la-ji/sui-shen-wifi/gao-tong-sui-shen-wifi-duan-xin-zhuan-fa-zi-dong-kai-qi-wifi-guan-bi-shu-ju-liu-liang.md)
   * [短信转发提示证书验证失败](jian-la-ji/sui-shen-wifi/duan-xin-zhuan-fa-ti-shi-zheng-shu-yan-zheng-shi-bai.md)
