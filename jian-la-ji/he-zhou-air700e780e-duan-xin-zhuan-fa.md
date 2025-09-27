@@ -20,7 +20,15 @@
 
 ### LuaTools 安装
 
-1、下载[Luatools\_v2.7z](https://luatos.com/luatools/download/last)，解压后是一个文件名为Luatools\_v2.exe的运行程序。 2、新建一个 LuaTools文件夹，将Luatools\_v2.exe拷贝或移动到LuaTools文件夹下 3、双击 Luatools\_v2.exe开始安装，出现如下情况，点击更多信息选项，然后选择仍要运行选项即可完成安装。 ![img](https://pic.chjina.com/2025/09/27/cc8151d8f1378afbc5ba8b35c8af6497.png) 4、运行Luatools后会提示开始升级，点击开始，进行升级，升级完成后可正常使用。
+1、下载[Luatools\_v2.7z](https://luatos.com/luatools/download/last)，解压后是一个文件名为Luatools\_v2.exe的运行程序。
+
+&#x20;2、新建一个 LuaTools文件夹，将Luatools\_v2.exe拷贝或移动到LuaTools文件夹下&#x20;
+
+3、双击 Luatools\_v2.exe开始安装，出现如下情况，点击更多信息选项，然后选择仍要运行选项即可完成安装。
+
+&#x20;![img](https://pic.chjina.com/2025/09/27/cc8151d8f1378afbc5ba8b35c8af6497.png)&#x20;
+
+4、运行Luatools后会提示开始升级，点击开始，进行升级，升级完成后可正常使用。
 
 ## 2.下载短信转发项目
 
