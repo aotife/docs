@@ -16,12 +16,16 @@
 
 网友提供证书下载链接，以下证书随意替换一个即可。
 
-1.https://github.com/user-attachments/files/20394975/cacerts.zip
+1\.
+
+{% embed url="https://github.com/user-attachments/files/20394975/cacerts.zip" %}
 
 2.https://cooanaoo.lanzoub.com/ir69E33kq84f
 
+{% embed url="https://cooanaoo.lanzoub.com/ir69E33kq84f" %}
+
 3.备份下载
 
-https://drive.chjina.com/%E6%8D%A1%E5%9E%83%E5%9C%BE/%E9%9A%8F%E8%BA%ABWIFI/%E9%AB%98%E9%80%9A%E9%9A%8F%E8%BA%ABWFI%E7%9F%AD%E4%BF%A1%E8%BD%AC%E5%8F%91%E8%AF%81%E4%B9%A6%E9%AA%8C%E8%AF%81%E5%A4%B1%E8%B4%A5/%E8%AF%81%E4%B9%A6
+{% embed url="https://drive.chjina.com/%E6%8D%A1%E5%9E%83%E5%9C%BE/%E9%9A%8F%E8%BA%ABWIFI/%E9%AB%98%E9%80%9A%E9%9A%8F%E8%BA%ABWFI%E7%9F%AD%E4%BF%A1%E8%BD%AC%E5%8F%91%E8%AF%81%E4%B9%A6%E9%AA%8C%E8%AF%81%E5%A4%B1%E8%B4%A5/%E8%AF%81%E4%B9%A6" %}
 
 ![image-20250927082715425](https://pic.chjina.com/2025/09/27/bd12f05b0cad4fc9d96910f91ed462bd.png)
