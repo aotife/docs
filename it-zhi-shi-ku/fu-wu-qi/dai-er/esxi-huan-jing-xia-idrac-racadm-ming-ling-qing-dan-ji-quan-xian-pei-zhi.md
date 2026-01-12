@@ -245,13 +245,3 @@ racadm set iDRAC.HTTPS.Enable 1
 密码设置需符合 iDRAC 密码策略（默认要求大小写字母 + 数字 + 特殊符号，长度≥8位）。
 {% endstep %}
 {% endstepper %}
-
-***
-
-<details>
-
-<summary>需要我帮你整理一份 iDRAC 权限位数值对照表，方便你精准配置用户权限吗？</summary>
-
-（注：文档部分内容可能由 AI 生成）
-
-</details>
